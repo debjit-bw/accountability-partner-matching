@@ -1,0 +1,26 @@
+{
+    "0": {
+        "id": 0,
+        "name": "Housework"
+    },
+    "1": {
+        "id": 1,
+        "name": "IT professional"
+    },
+    "2": {
+        "id": 2,
+        "name": "HR"
+    },
+    "3": {
+        "id": 3,
+        "name": "Manager"
+    },
+    "4": {
+        "id": 4,
+        "name": "Owner/CEO"
+    },
+    "5": {
+        "id": 5,
+        "name": "Teacher"
+    }
+}
