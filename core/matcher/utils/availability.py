@@ -1,4 +1,4 @@
-from core.matcher.ages import age_lower_bound, age_upper_bound
+from core.matcher.exports.ages import age_lower_bound, age_upper_bound
 
 def age_in_range(seeking_user, target_user):
     """

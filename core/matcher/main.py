@@ -1,6 +1,6 @@
-from core.matcher.files import passions
-from core.matcher.onehot import make_onehot
-from core.matcher.dot import dot_product
+from core.matcher.exports.files import passions
+from core.matcher.utils.onehot import make_onehot
+from core.matcher.utils.dot import dot_product
 from core.matcher.utils.availability import is_available
 
 
